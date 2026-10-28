@@ -2,6 +2,8 @@
 
 **Find the Bottleneck. Understand the Mathematics. Improve Performance.**
 
+🌐 **Live Website:** [https://bottleneck-lab-maths-ia-3.vercel.app/](https://bottleneck-lab-maths-ia-3.vercel.app/)
+
 An interactive statistical analysis platform that uses Pearson correlation and Spearman rank correlation to study system performance, explore mathematical relationships, and identify components that deserve further investigation.
 
 **Project Type:** Mathematics Microproject  
