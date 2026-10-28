@@ -1,4 +1,4 @@
-﻿# Bottleneck Lab
+# Bottleneck Lab
 
 **Find the Bottleneck. Understand the Mathematics. Improve Performance.**
 
